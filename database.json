@@ -1,0 +1,167 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "fullName": "Melissa Wallis",
+        "email": "melissa@email.com",
+        "isStaff": true
+    },
+    {
+        "id": 2,
+        "fullName": "Jane Doe",
+        "email": "jane@email.com",
+        "isStaff": false
+    }
+    ],
+
+    "itemTypes": [
+    {
+        "id": 1,
+        "type": "cross stitch"
+    },
+    {
+        "id": 2,
+        "type": "embroidery"
+    },
+    {
+        "id": 3,
+        "type": "miniatures"
+    },
+    {
+        "id": 4,
+        "type": "wall hangings"
+    }
+    ],
+
+
+    "items": [
+    {
+        "id": 1,
+        "name": "Declaration of Craftiness",
+        "description": "Life, liberty and the pursuit of craftiness cross stitch",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 1
+        },     
+    {
+        "id": 2,
+        "name": "Tiny Flowers",
+        "description": "Small cross stitch of flowers",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 1
+    },
+    {
+        "id": 3,
+        "name": "Blue Bird",
+        "description": "Cross stitch of blue bird",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 1
+    },
+    {
+        "id": 4,
+        "name": "Nashville",
+        "description": "Cross stitch of Nashville skyline",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 1
+    },
+    {
+        "id": 5,
+        "name": "Bambi's Dad",
+        "description": "Embroidery of deer in the winter forest",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 2
+    },
+    {
+        "id": 6,
+        "name": "SSDGM",
+        "description": "Flower wreath embroidery with MFM tagline",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 2
+    },
+    {
+        "id": 7,
+        "name": "Queen Bee",
+        "description": "Flower wreath embroidery with bee",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 2
+    },
+    {
+        "id": 8,
+        "name": "Roses",
+        "description": "Roses embroidery",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 2
+    },
+    {
+        "id": 9,
+        "name": "Spooky Kitty",
+        "description": "Halloween cat embroidery",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 2
+    },
+    {
+        "id": 10,
+        "name": "Bitsy Bookstore",
+        "description": "Bookstore miniature",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 3
+    },
+    {
+        "id": 11,
+        "name": "Totoro's Hut",
+        "description": "Totoro miniature",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 3
+    },
+    {
+        "id": 12,
+        "name": "Little Greenhouse",
+        "description": "Greenhouse miniature",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 3
+    },
+    {
+        "id": 13,
+        "name": "Teensy Teashop",
+        "description": "Tea shop miniature",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 3
+    },
+    {
+        "id": 14,
+        "name": "Blue Bargello",
+        "description": "Blue bargello wall hanging",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 4
+    },
+    {
+        "id": 15,
+        "name": "Pink Bargello",
+        "description": "Pink bargello wall hanging",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 4
+    },
+    {
+        "id": 16,
+        "name": "Wall Hanging",
+        "description": "Woven wall hanging",
+        "price": 5,
+        "image": "url",
+        "itemTypeId": 4
+    }
+    ]
+}
