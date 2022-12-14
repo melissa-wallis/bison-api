@@ -33,20 +33,12 @@
   ],
   "items": [
     {
-      "name": "dfgfg",
-      "description": "dfgdf",
-      "price": "dfgfd",
+      "name": "Pink Bargello",
+      "description": "Pink Bargello Wall Hanging",
+      "price": "5",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670950104/gn4df7gpu0uxg0wc8lhl.png",
       "itemTypeId": 4,
       "id": 30
-    },
-    {
-      "name": "Blue Bargello 2",
-      "description": "Blue",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670953231/fguic4b83ykcsxhncrru.png",
-      "itemTypeId": 4,
-      "id": 32
     },
     {
       "name": "SSDGM",
@@ -66,7 +58,7 @@
     },
     {
       "name": "Derpy Kitty",
-      "description": "Derpy Kitty Framed Cross Stitch",
+      "description": "Framed Cat Cross Stitch",
       "price": "5",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670958981/l5ojkcy0pfuyy3rpdox9.png",
       "itemTypeId": 1,
@@ -81,7 +73,7 @@
       "id": 38
     },
     {
-      "name": "Woven Wall Hanging 2",
+      "name": "Woven Wall Hanging",
       "description": "Woven Wall Hanging",
       "price": "5",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670964595/esvckdqx3elchpti2b7w.png",
@@ -151,6 +143,30 @@
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670981786/smkbfoeiqtetl15hr9oi.png",
       "itemTypeId": 1,
       "id": 48
+    },
+    {
+      "name": "Totoro's Hut",
+      "description": "Totoro House Miniature",
+      "price": "5",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671044528/tgdkwzhnexh6d4gqbwqu.png",
+      "itemTypeId": 3,
+      "id": 49
+    },
+    {
+      "name": "Crafter's Manifesto",
+      "description": "Pursuit of Craftiness Cross Stitch",
+      "price": "5",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671052115/ykjp21xcggemfn9hxlct.png",
+      "itemTypeId": 1,
+      "id": 50
+    },
+    {
+      "name": "Blue Bargello",
+      "description": "Blue Bargello Wall Hanging",
+      "price": "5",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671052839/vbwteztlqce0mtzs6kjw.png",
+      "itemTypeId": 4,
+      "id": 51
     }
   ]
 }
