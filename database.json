@@ -11,6 +11,13 @@
       "fullName": "Jane Doe",
       "isStaff": false,
       "id": 2
+    },
+    {
+      "email": "",
+      "fullName": "",
+      "isStaff": false,
+      "": "customer@email.com",
+      "id": 3
     }
   ],
   "itemTypes": [
@@ -33,140 +40,148 @@
   ],
   "items": [
     {
-      "name": "Pink Bargello",
-      "description": "Pink Bargello Wall Hanging",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670950104/gn4df7gpu0uxg0wc8lhl.png",
-      "itemTypeId": 4,
-      "id": 30
-    },
-    {
-      "name": "SSDGM",
-      "description": "Stay Sexy, Don't Get Murdered Embroidery",
-      "price": "60",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670955209/g8tfkyz5cxta3r3nwxov.png",
-      "itemTypeId": 2,
-      "id": 35
-    },
-    {
       "name": "Roses",
-      "description": "Embroidered Roses",
-      "price": "5",
+      "description": "9\" Roses embroidery",
+      "price": "100",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670958341/h2dzlabbap4xncjicxf0.png",
       "itemTypeId": 2,
       "id": 36
     },
     {
-      "name": "Derpy Kitty",
-      "description": "Framed Cat Cross Stitch",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670958981/l5ojkcy0pfuyy3rpdox9.png",
-      "itemTypeId": 1,
-      "id": 37
-    },
-    {
       "name": "Spooky Kitty",
-      "description": "Halloween Cat Embroidery",
-      "price": "5",
+      "description": "8\" Halloween cat embroidery",
+      "price": "50",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670961746/xcsljgvtxrl14lxyiclm.png",
       "itemTypeId": 2,
       "id": 38
     },
     {
-      "name": "Woven Wall Hanging",
-      "description": "Woven Wall Hanging",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670964595/esvckdqx3elchpti2b7w.png",
-      "itemTypeId": 4,
-      "id": 40
-    },
-    {
       "name": "Little Library",
-      "description": "Library Miniature",
-      "price": "5",
+      "description": "Library miniature",
+      "price": "75",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670966952/irgha2ssfnxwiqjhx0zx.png",
       "itemTypeId": 3,
       "id": 41
     },
     {
-      "name": "Mini Greenhouse",
-      "description": "Greenhouse Miniature",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670970934/hsq9enew6dr3spf0fc7b.png",
-      "itemTypeId": 3,
-      "id": 42
-    },
-    {
       "name": "Mini Bouquet",
-      "description": "Small Bouquet Embroidery",
-      "price": "5",
+      "description": "5\" Floral bouquet embroidery",
+      "price": "35",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670972368/lp568fbu1ynqr579qbxj.png",
       "itemTypeId": 2,
       "id": 43
     },
     {
-      "name": "Robin",
-      "description": "Embroidered Birb",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670975139/vm54hdahzacqykzw5ay0.png",
-      "itemTypeId": 2,
-      "id": 44
-    },
-    {
-      "name": "Nashville",
-      "description": "Nashville Skyline Cross Stitch",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670976413/bhevtircdeytaukbyvpe.png",
-      "itemTypeId": 1,
-      "id": 45
-    },
-    {
-      "name": "Blue Bird",
-      "description": "Blue Bird Cross Stitch",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670977928/ljzhu13r3suzxmloq9ry.png",
-      "itemTypeId": 1,
-      "id": 46
-    },
-    {
-      "name": "Teeny Teahouse",
-      "description": "Teahouse Miniature",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670981008/zcwxlcorvm18itfgkowr.png",
-      "itemTypeId": 3,
-      "id": 47
-    },
-    {
       "name": "Small Roses",
-      "description": "Roses Cross Stitch",
-      "price": "5",
+      "description": "3\" Roses cross stitch",
+      "price": "30",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1670981786/smkbfoeiqtetl15hr9oi.png",
       "itemTypeId": 1,
       "id": 48
     },
     {
-      "name": "Totoro's Hut",
-      "description": "Totoro House Miniature",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671044528/tgdkwzhnexh6d4gqbwqu.png",
-      "itemTypeId": 3,
-      "id": 49
-    },
-    {
       "name": "Crafter's Manifesto",
-      "description": "Pursuit of Craftiness Cross Stitch",
-      "price": "5",
+      "description": "10\" Pursuit of Craftiness cross stitch",
+      "price": "50",
       "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671052115/ykjp21xcggemfn9hxlct.png",
       "itemTypeId": 1,
       "id": 50
     },
     {
-      "name": "Blue Bargello",
-      "description": "Blue Bargello Wall Hanging",
-      "price": "5",
-      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1671052839/vbwteztlqce0mtzs6kjw.png",
-      "itemTypeId": 4,
+      "name": "SSDGM",
+      "description": "7\" My Favorite Murder embroidery",
+      "price": "100",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672606891/rr6g4ucdyqdp9jcn54wt.png",
+      "itemTypeId": 2,
       "id": 51
+    },
+    {
+      "name": "Wall Hanging",
+      "description": "Woven wall hanging",
+      "price": "150",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672606940/qx8gszskpgwgwyiktbdx.png",
+      "itemTypeId": 4,
+      "id": 52
+    },
+    {
+      "name": "Wil's Greenhouse",
+      "description": "Greenhouse miniature",
+      "price": "75",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672606991/ugwj6701huohsfhx2kfy.png",
+      "itemTypeId": 3,
+      "id": 53
+    },
+    {
+      "name": "Robin",
+      "description": "8\" Bird embroidery",
+      "price": "45",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607038/awno4nrm9crns6nj3ilo.png",
+      "itemTypeId": 2,
+      "id": 54
+    },
+    {
+      "name": "Nashville",
+      "description": "8\" Nashville skyline cross stitch",
+      "price": "40",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607092/dkucywj0y4nilkmdwren.png",
+      "itemTypeId": 1,
+      "id": 55
+    },
+    {
+      "name": "Blue Bird",
+      "description": "8\" Bird cross stitch",
+      "price": "40",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607144/oy1uq7upjyrbazaneqvm.png",
+      "itemTypeId": 1,
+      "id": 56
+    },
+    {
+      "name": "Blue Bargello",
+      "description": "Blue bargello wall hanging",
+      "price": "45",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607190/ofq6ry8jl0fhj9t91x2c.png",
+      "itemTypeId": 4,
+      "id": 57
+    },
+    {
+      "name": "Totoro's Hut",
+      "description": "Totoro house and garden miniature",
+      "price": "40",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607226/ta1nxta4h0kp60xp7pnu.png",
+      "itemTypeId": 3,
+      "id": 58
+    },
+    {
+      "name": "Bambi's Dad",
+      "description": "10\" Deer in the winter woods embroidery",
+      "price": "60",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607269/t5lqaaaittv6pw3fvzbh.png",
+      "itemTypeId": 2,
+      "id": 59
+    },
+    {
+      "name": "Teensy Teahouse",
+      "description": "Teahouse miniature",
+      "price": "75",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607307/obht7x6m8ruvh00fbamw.png",
+      "itemTypeId": 3,
+      "id": 60
+    },
+    {
+      "name": "Pink Bargello",
+      "description": "Pink bargello wall hanging",
+      "price": "50",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607345/tf6phhbxoou5uw6iicv3.png",
+      "itemTypeId": 4,
+      "id": 61
+    },
+    {
+      "name": "Derpy Kitty",
+      "description": "Framed cat cross stitch",
+      "price": "50",
+      "image": "http://res.cloudinary.com/dkst6uh8j/image/upload/v1672607378/ej213wuqhpzuxlyfewzz.png",
+      "itemTypeId": 1,
+      "id": 62
     }
   ]
 }
